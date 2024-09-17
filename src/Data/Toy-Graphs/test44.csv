@@ -1,0 +1,6 @@
+origem,destino,distancia,label origem,label destino
+0,4,750,carmo,bolsa
+1,4,450,dLuis,bolsa
+2,3,500,se,clerigos
+2,4,600,se,bolsa
+3,4,750,clerigos,bolsa
